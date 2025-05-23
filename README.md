@@ -1,0 +1,1 @@
+# abdominal_bolgede_hastalik_tespiti_ai_app
